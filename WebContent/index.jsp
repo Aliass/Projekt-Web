@@ -9,7 +9,7 @@
 <body>
 
 <h1>Index</h1>
-<h3>GeÃ¤ndert in Github</h3>
+<h3>Geändert in Github</h3>
 
 </body>
 </html>
